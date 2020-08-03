@@ -19,7 +19,7 @@ The watershed preprocessing was done in 7 steps:
 2. Adding Administrative level 0 and 1 information to the Cities4Forests cities, done using [add_adm1_information.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/add_adm1_information.py)
 3. Downloading watershed datasets for each region (Africa, South America, North America, etc.) from HydroBASINS from https://www.hydrosheds.org/downloads by following HydroBASINS -> Standard (Without Lakes) -> Region -> Level 5.
 4. Merging Level 5 watersheds from regional datasets to one global dataset using [merge_watersheds.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/merge_watersheds.py)
-5. Selected watersheds that contained Cities4Forests cities using QGIS's "Select by Location" command."
+5. Selected watersheds that contained Cities4Forests cities using QGIS's "Select by Location" command.
 6. Adding the island of Honolulu to the global watersheds layer using [add_honolulu_to_watersheds.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/add_honolulu_to_watersheds.py)
 7. Added Cities4Forests city attributes to each intersecting watershed using [intersect_city_and_watershed_properties.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/intersect_city_and_watershed_properties.py)
 
