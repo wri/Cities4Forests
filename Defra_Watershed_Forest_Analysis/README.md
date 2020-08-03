@@ -1,6 +1,9 @@
 # Forest Loss and Restoration Potential in Cities4Forest City Watershed Areas
-## This folder contains code used to calculate statistics on forest loss, biomass loss, restoration potential, and potential carbon sequestration in watersheds near cities in the Cities4Forests Program.
+
 Kristine Lister, James Anderson, Michael Chen, John-Rob Pool
+
+## This folder contains code used to calculate statistics on forest loss, biomass loss, restoration potential, and potential carbon sequestration in watersheds near cities in the Cities4Forests Program.
+
 The analysis was done in three steps:
 1. Watershed Preprocessing
 2. Forest Loss, Biomass Loss, and Population Calculation
