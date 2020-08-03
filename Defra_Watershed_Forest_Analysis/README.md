@@ -13,6 +13,7 @@ The analysis was done in three steps:
 - HydroSHEDS data was downloaded from https://www.hydrosheds.org/downloads by following HydroBASINS -> Standard (Without Lakes) -> Region -> Level 5
 - There were no HydroSHEDS watersheds for the islands of Hawaii, so the island of Honolulu was taken from [GADM Version 3.6](https://gadm.org/index.html) from the Administrative Level 3 dataset.
 - Administrative Level 0 (countries) and 1 (states/provinces) information was also added to the Cities4Forest cities using [GADM Version 3.6](https://gadm.org/index.html)
+
 The preprocessing was done in X steps:
 1. Adding latitude and longitude to the Cities4Forests cities, done using [get_city_coordinates.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/get_city_coordinates.py)
 2. Adding Administrative level 0 and 1 information to the Cities4Forests cities, done using [add_adm1_information.py](https://github.com/wri/Cities4Forests/blob/master/Defra_Watershed_Forest_Analysis/add_adm1_information.py)
