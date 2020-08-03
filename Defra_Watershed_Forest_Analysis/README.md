@@ -42,7 +42,7 @@ The watershed preprocessing was done in 7 steps:
 
 
 
-Citations:
+## Citations:
 - Center for International Earth Science Information Network - CIESIN - Columbia University. 2018. Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 11. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JW8BX5. Accessed 03/08/2020.
 - Griscom, Bronson W. et al. "Natural Climate Solutions". Proceedings Of The National Academy Of Sciences, vol 114, no. 44, 2017, pp. 11645-11650. Proceedings Of The National Academy Of Sciences, doi:10.1073/pnas.1710465114. Accessed 3 Aug 2020.
 - Hansen, Potapov, Moore, Hancher et al. “High-resolution global maps of 21st-century forest cover change.” Science 342.6160 (2013): 850-853.
